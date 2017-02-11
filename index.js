@@ -7,9 +7,9 @@ server.connection({ port: 8000, host: 'localhost' });
 
 server.route({
   method: 'GET',
-  path: '/api',
+  path: '/tuts',
   handler: function(request, reply) {
-    reply({ 'api' : 'hello!' });
+    reply({ 'data' : '' });
   }
 });
 

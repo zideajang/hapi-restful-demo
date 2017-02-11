@@ -18,6 +18,13 @@
   },
   "homepage": "https://github.com/zideajang/hapi-restful-demo#readme",
   "dependencies": {
-    "hapi": "^16.1.0"
+    "hapi": "^16.1.0",
+    "joi": "^10.2.2",
+    "sequelize": "^3.30.2",
+    "sqlite3": "^3.1.8"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1"
   }
 }
