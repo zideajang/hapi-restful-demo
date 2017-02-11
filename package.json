@@ -1,0 +1,23 @@
+{
+  "name": "hapi-restful-demo",
+  "version": "1.0.0",
+  "description": "通过 hapi 快速搭建一个 Restful 服务",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zideajang/hapi-restful-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zideajang/hapi-restful-demo/issues"
+  },
+  "homepage": "https://github.com/zideajang/hapi-restful-demo#readme",
+  "dependencies": {
+    "hapi": "^16.1.0"
+  }
+}
